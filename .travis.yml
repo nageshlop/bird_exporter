@@ -1,4 +1,7 @@
 language: go
+arch:
+  - amdc64
+  - ppc64le
 go:
   - "1.11"
 script: go test ./...
