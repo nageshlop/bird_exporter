@@ -1,6 +1,6 @@
 language: go
 arch:
-  - amdc64
+  - amd64
   - ppc64le
 go:
   - "1.11"
